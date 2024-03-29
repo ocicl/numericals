@@ -1,0 +1,10 @@
+* numericals
+
+CFFI enabled SIMD powered simple-math numerical operations on arrays
+for Common Lisp
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/digikar99/numericals.git |
+| commit  | 910d242                                         |
+| systems | numericals dense-numericals                     |
+|---------+-------------------------------------------------|
