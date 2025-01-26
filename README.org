@@ -5,6 +5,6 @@ for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/digikar99/numericals.git |
-| commit  | b11c74a                                         |
+| commit  | 995861f                                         |
 | systems | numericals dense-numericals                     |
 |---------+-------------------------------------------------|
